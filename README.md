@@ -1,8 +1,4 @@
-# Install
-
-npm install
-
-## Exercise 2:
+# Exercise 2:
 
 Image you have a set of data in JSON, describing official languages spoken by countries, as such:
 
@@ -31,6 +27,10 @@ Write a function in javascript that:
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+To install the application.
 
 ### `npm test`
 
